@@ -8,4 +8,6 @@ Thanks for checking out this coding challenge. The design is provided by [Fronte
 
 If you wanna run on your machine, you just need to open the **index.html** file
 
+Click [here](https://testimonials-five.vercel.app/) to open the live option
+
 
